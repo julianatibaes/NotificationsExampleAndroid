@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exemplo de notificação</string>
+
+    <string name="description">Esta é uma String nova </string>
+    <string name="description_btn_one"> Veja uma notificação simples</string>
+    <string name="description_btn_two"> Veja uma notificação menos simples</string>
+    <string name="description_btn_three"> Veja uma notificação com loading</string>
+    <string name="description_btn_four"> Envie uma notificação com esta mensagem</string>
+</resources>
