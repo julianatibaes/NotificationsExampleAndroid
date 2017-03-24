@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exemplo de notificação customização</string>
+    <string name="intro_text">Vamos utilizar uma notificação customizada!</string>
+    <string name="expanded">Eu sou a notificação expandida.\n Recolha-me!</string>
+
+    <string name="show_notification">Mostrar a notificação</string>
+    <string name="custom_notification">Eu sou uma notificação customizada.</string>
+
+
+    <string name="collapsed_image">Um único robô Android acenando. Simboliza
+        uma notificação recolhida.
+    </string>
+    <string name="expanded_image">Dois Androids em fila. Simboliza uma notificação expandida.
+    </string>
+    <string name="collapsed">Recolha-me!</string>
+
+</resources>
